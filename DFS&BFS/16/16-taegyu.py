@@ -1,6 +1,5 @@
 import sys
 from itertools import combinations
-from time import sleep
 
 n, m = map(int, sys.stdin.readline().split())
 lab = []
